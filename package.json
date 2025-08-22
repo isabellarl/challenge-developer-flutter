@@ -1,0 +1,27 @@
+{
+  "name": "challenge-developer-flutter",
+  "version": "1.0.0",
+  "description": "O objetivo deste desafio é avaliar as competências técnicas dos candidatos Regras e requisitos técnicos estão detalhadas neste documento.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabellarl/challenge-developer-flutter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabellarl/challenge-developer-flutter/issues"
+  },
+  "homepage": "https://github.com/isabellarl/challenge-developer-flutter#readme",
+  "devDependencies": {
+    "cypress": "^15.0.0"
+  }
+}
